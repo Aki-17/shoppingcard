@@ -1,6 +1,11 @@
-Run the command npm create vite
-Give the project name in small case
-Select React and Javascript
-Get into the project directory ex. cd pricecard
-npm install
-npm run dev
+1 Run the command npm create vite
+
+2 Give the project name in small case
+
+3 Select React and Javascript
+
+4 Get into the project directory ex. cd pricecard
+
+5 npm install
+
+6npm run dev
